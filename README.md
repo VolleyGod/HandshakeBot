@@ -1,0 +1,2 @@
+# HandshakeBot
+Handshake Discord Bot
